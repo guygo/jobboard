@@ -1,0 +1,3 @@
+[submodule "trivia"]
+	path = trivia
+	url = https://github.com/guygo/trivia.git
